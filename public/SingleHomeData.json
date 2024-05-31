@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/dtQWPnB/Modern-Family-Home-with-Stunning-Views.jpg",
+        "estate_title": "Modern Family Home with Stunning Views",
+        "segment_name": "Luxury",
+        "description": "Perched on a hilltop overlooking the city, this modern single-family home offers unparalleled luxury and breathtaking panoramic views. Boasting elegant design features and high-end finishes throughout, this spacious residence is perfect for discerning buyers seeking both comfort and style. The open-concept layout is ideal for entertaining, with a gourmet kitchen, expansive living areas, and floor-to-ceiling windows that flood the home with natural light. Outside, a private terrace and landscaped gardens provide the perfect backdrop for outdoor gatherings or quiet relaxation. With top-of-the-line amenities including a swimming pool, home gym, and smart home technology, this property offers the ultimate in modern living.",
+        "price": "$2,500,000",
+        "status": "sale",
+        "area": "3500 sq ft",
+        "location": "Los Angeles, California",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "kitchen"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/kJZcXr9/Charming-Family-Home-in-Historic-Neighborhood.jpg",
+        "estate_title": "Charming Family Home in Historic Neighborhood",
+        "segment_name": "Mid-range",
+        "description": "Nestled in a picturesque historic neighborhood, this charming single-family home exudes warmth and character. With its inviting front porch, lush landscaping, and classic architectural details, this residence offers timeless appeal. Inside, the interior is filled with natural light and features hardwood floors, crown molding, and a cozy fireplace. The spacious kitchen boasts granite countertops, stainless steel appliances, and ample cabinet space, making it perfect for the home chef. The master suite offers a peaceful retreat with a spa-like ensuite bath and walk-in closet. Outside, the fenced backyard is perfect for children and pets to play, while a detached garage provides convenient parking and storage space.",
+        "price": "$400,000",
+        "status": "sale",
+        "area": "2000 sq ft",
+        "location": "Charleston, South Carolina",
+        "facilities": [
+            "living room",
+            "kitchen",
+            "game room"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/Wx1HYLc/Family-Friendly-Home-with-Private-Yard.webp",
+        "estate_title": "Family-Friendly Home with Private Yard",
+        "segment_name": "Affordable",
+        "description": "Located in a family-friendly neighborhood, this inviting single-family home offers comfortable and convenient living spaces. The open floor plan features a spacious living room, perfect for gatherings with family and friends. The updated kitchen boasts stainless steel appliances, granite countertops, and plenty of storage space. A separate dining area provides the ideal spot for enjoying meals together. The master bedroom includes an ensuite bath and ample closet space, while the additional bedrooms are perfect for children or guests. Outside, the fenced backyard offers privacy and space for outdoor activities, with a patio area for grilling and relaxing. With its convenient location close to schools, parks, and shopping, this home is ideal for families seeking affordability without sacrificing quality.",
+        "price": "$250,000",
+        "status": "sale",
+        "area": "1800 sq ft",
+        "location": "Austin, Texas",
+        "facilities": [
+            "living room",
+            "kitchen",
+            "garden area"
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/VJdKpFg/Spacious-single-Family-Home-with-Mountain-Views.jpg",
+        "estate_title": "Spacious Family Home with Mountain Views",
+        "segment_name": "Luxury",
+        "description": "Escape to luxury living in this spacious single-family home boasting breathtaking mountain views. Situated on a sprawling estate, this custom-built residence offers an abundance of space and privacy. The grand foyer welcomes you with soaring ceilings and an impressive staircase, leading to the formal living and dining areas. The gourmet kitchen is a chef's dream, featuring high-end appliances, granite countertops, and a center island. The family room is perfect for cozy evenings by the fireplace, while the home theater offers entertainment for all ages. Upstairs, the luxurious master suite includes a spa-like ensuite bath and private balcony with panoramic views. Outside, the expansive patio and pool area provide the perfect setting for outdoor entertaining or simply enjoying the serene surroundings.",
+        "price": "$3,000,000",
+        "status": "sale",
+        "area": "5000 sq ft",
+        "location": "Aspen, Colorado",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "kitchen"
+        ]
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/1RJP8JT/Cozy-Family-Home-in-Quiet-Cul-de-sac.jpg",
+        "estate_title": "Cozy Family Home in Quiet Cul-de-sac",
+        "segment_name": "Mid-range",
+        "description": "Tucked away on a quiet cul-de-sac, this cozy single-family home offers the perfect blend of comfort and convenience. The inviting front porch welcomes you into the bright and airy interior, where you'll find an open floor plan ideal for modern living. The well-appointed kitchen features granite countertops, stainless steel appliances, and a breakfast bar overlooking the spacious family room. A separate dining area provides the perfect spot for family meals or entertaining guests. The master suite offers a peaceful retreat with a private ensuite bath and walk-in closet. Outside, the fenced backyard is perfect for children and pets to play, with plenty of space for gardening or outdoor activities. With its prime location close to schools, parks, and shopping, this home is sure to impress!",
+        "price": "$350,000",
+        "status": "sale",
+        "area": "2200 sq ft",
+        "location": "Portland, Oregon",
+        "facilities": [
+            "living room",
+            "kitchen",
+            "swimming pool"
+        ]
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/5Bvk0cm/Family-Home-with-Pool-and-Guest-House.jpg",
+        "estate_title": "Family Home with Pool and Guest House",
+        "segment_name": "Luxury",
+        "description": "Experience luxury living in this exquisite single-family home, complete with a pool and guest house. Perfect for entertaining, the spacious interior boasts high-end finishes and designer touches throughout. The gourmet kitchen features custom cabinetry, professional-grade appliances, and a large center island with seating. The adjacent living room offers a cozy fireplace and built-in entertainment center, while the formal dining room is ideal for hosting dinner parties. The luxurious master suite includes a spa-like ensuite bath with a soaking tub and separate shower. Outside, the resort-style backyard oasis features a sparkling pool, spa, and covered patio with a built-in barbecue area. The detached guest house offers additional accommodations for guests or could be used as a home office or gym. With its prime location in a prestigious neighborhood, this home offers the epitome of luxury living.",
+        "price": "$4,500,000",
+        "status": "sale",
+        "area": "6000 sq ft",
+        "location": "Miami, Florida",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "kitchen"
+        ]
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/XXgJ56M/Classic-Family-Home-with-Mountain-Views.jpg",
+        "estate_title": "Classic Family Home with Mountain Views",
+        "segment_name": "Mid-range",
+        "description": "Embrace classic charm in this lovely single-family home boasting stunning mountain views. Situated on a spacious lot, this well-maintained residence offers ample space for comfortable living. The inviting front porch welcomes you into the light-filled interior, featuring hardwood floors, crown molding, and custom built-ins. The updated kitchen is a chef's delight, with granite countertops, stainless steel appliances, and a cozy breakfast nook. The adjacent family room is perfect for relaxing or entertaining, with a fireplace and French doors leading to the backyard. The master suite offers a peaceful retreat with a private ensuite bath and walk-in closet. Outside, the expansive backyard is an oasis of tranquility, with mature landscaping, a covered patio, and breathtaking views of the surrounding mountains.",
+        "price": "$600,000",
+        "status": "sale",
+        "area": "3000 sq ft",
+        "location": "Denver, Colorado",
+        "facilities": [
+            "living room",
+            "kitchen",
+            "garden area"
+        ]
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/H71k4TN/Family-Home-with-Spectacular-Ocean-Views.webp",
+        "estate_title": "Family Home with Spectacular Ocean Views",
+        "segment_name": "Luxury",
+        "description": "Live the coastal lifestyle in this stunning single-family home boasting spectacular ocean views. Nestled on a bluff overlooking the sea, this custom-built residence offers luxury living at its finest. The open-concept floor plan is ideal for entertaining, with a gourmet kitchen, formal dining room, and spacious living area that opens to a wraparound deck. The master suite is a peaceful retreat, with a private balcony, spa-like ensuite bath, and walk-in closet. Additional bedrooms provide plenty of space for family or guests, while a home office offers flexibility for remote work. Outside, the landscaped backyard features a patio area with a fire pit, perfect for enjoying sunsets over the ocean. With its prime location in an exclusive coastal community, this home offers the ultimate in seaside living.",
+        "price": "$5,000,000",
+        "status": "sale",
+        "area": "4000 sq ft",
+        "location": "Malibu, California",
+        "facilities": [
+            "living room",
+            "kitchen",
+            "swimming pool"
+        ]
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/t4qkGt0/Quaint-Family-Home-in-Historic-District.jpg",
+        "estate_title": "Quaint Family Home in Historic District",
+        "segment_name": "Affordable",
+        "description": "Step back in time with this quaint single-family home located in a historic district. Brimming with character and charm, this well-maintained residence offers a cozy retreat from the hustle and bustle of modern life. The front porch welcomes you into the light-filled interior, featuring original hardwood floors, crown molding, and period details throughout. The updated kitchen is equipped with modern appliances and plenty of cabinet space, while the adjacent dining room is perfect for family meals or entertaining guests. The master suite offers a peaceful escape, with a private ensuite bath and walk-in closet. Outside, the fenced backyard is a private oasis, with mature trees and a patio area for outdoor dining or relaxing. With its convenient location close to shops, restaurants, and cultural attractions, this home offers historic charm at an affordable price.",
+        "price": "$300,000",
+        "status": "sale",
+        "area": "1800 sq ft",
+        "location": "Savannah, Georgia",
+        "facilities": [
+            "living room",
+            "kitchen",
+            "swimming pool"
+        ]
+    }
+]

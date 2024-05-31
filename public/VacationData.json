@@ -1,0 +1,146 @@
+[
+    {
+        "id5": 1,
+        "estate_title": "Luxury Beachfront Villa",
+        "segment_name": "Beachfront",
+        "description": "Escape to paradise in this luxurious beachfront villa situated on the pristine shores of a secluded island. With breathtaking ocean views from every room, this spacious retreat offers the ultimate relaxation experience. The villa boasts elegant furnishings, modern amenities, and ample living space spread across 3000 square feet. Spend your days lounging by the infinity pool or strolling along the private beach. Perfect for families or couples seeking a tranquil getaway.",
+        "price": "$500 per night",
+        "status": "rent",
+        "area": "3000 sq ft",
+        "location": "Tropical Island",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "kitchen"
+        ],
+        "image": "https://i.ibb.co/nbf6bfS/Luxury-Beachfront-Villa.jpg"
+    },
+    {
+        "id5": 2,
+        "estate_title": "Mountain Cabin Retreat",
+        "segment_name": "Mountain",
+        "description": "Experience the serenity of nature in this charming mountain cabin retreat nestled in the heart of a lush forest. Surrounded by towering trees and picturesque views, this cozy hideaway offers a peaceful escape from the hustle and bustle of city life. The cabin features rustic decor, a crackling fireplace, and a spacious deck for enjoying the mountain air. Hiking trails and wildlife abound, providing endless opportunities for outdoor adventure.",
+        "price": "$300 per night",
+        "status": "rent",
+        "area": "1500 sq ft",
+        "location": "Mountainous Region",
+        "facilities": [
+            "living room",
+            "fireplace",
+            "kitchen"
+        ],
+        "image": "https://i.ibb.co/JBfKpP2/Mountain-Cabin-Retreat.jpg"
+    },
+    {
+        "id5": 3,
+        "estate_title": "Urban Loft in Downtown",
+        "segment_name": "Urban",
+        "description": "Immerse yourself in city living with this stylish urban loft located in the heart of downtown. Boasting contemporary design and industrial chic accents, this trendy space offers the perfect blend of comfort and sophistication. Floor-to-ceiling windows flood the loft with natural light, illuminating the open-concept living area and sleek kitchen. Explore the vibrant neighborhood filled with eclectic shops, acclaimed restaurants, and cultural attractions.",
+        "price": "$2000 per week",
+        "status": "rent",
+        "area": "1200 sq ft",
+        "location": "Downtown Metropolis",
+        "facilities": [
+            "living room",
+            "gym",
+            "kitchen"
+        ],
+        "image": "https://i.ibb.co/sK8PVY2/Urban-Loft-in-Downtown.jpg"
+    },
+    {
+        "id5": 4,
+        "estate_title": "Secluded Forest Retreat",
+        "segment_name": "Forest",
+        "description": "Unwind in nature's embrace at this secluded forest retreat tucked away in a tranquil woodland setting. Surrounded by towering trees and lush greenery, this charming cabin offers a peaceful sanctuary for relaxation and rejuvenation. Step inside to discover a cozy interior with rustic furnishings, a crackling fireplace, and panoramic views of the surrounding forest. Spend your days hiking scenic trails, birdwatching, or simply unwinding on the spacious deck.",
+        "price": "$400 per night",
+        "status": "rent",
+        "area": "1800 sq ft",
+        "location": "Forest Wilderness",
+        "facilities": [
+            "living room",
+            "fireplace",
+            "kitchen"
+        ],
+        "image": "https://i.ibb.co/C28zxSP/Secluded-Forest-Retreat.jpg"
+    },
+    {
+        "id5": 5,
+        "estate_title": "Oceanfront Condo with Spectacular Views",
+        "segment_name": "Beachfront",
+        "description": "Indulge in luxury living at this oceanfront condo offering breathtaking views of the sparkling sea and golden sands. Located in an exclusive beachfront community, this modern retreat features upscale amenities and stylish decor. Floor-to-ceiling windows frame panoramic ocean vistas, while the spacious balcony provides the perfect spot for al fresco dining and sunset cocktails. Enjoy direct access to the beach, resort-style pools, and world-class dining options.",
+        "price": "$600 per night",
+        "status": "rent",
+        "area": "2000 sq ft",
+        "location": "Coastal Paradise",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "kitchen"
+        ],
+        "image": "https://i.ibb.co/fN4QYkk/Oceanfront-Condo-with-Spectacular-Views.jpg"
+    },
+    {
+        "id5": 6,
+        "estate_title": "Ski Chalet Retreat",
+        "segment_name": "Mountain",
+        "description": "Embrace the winter wonderland with a stay at this charming ski chalet nestled in the heart of the mountains. Featuring rustic alpine decor and cozy furnishings, this inviting retreat offers a warm and welcoming ambiance after a day on the slopes. Curl up by the fireplace with a cup of hot cocoa or soak in the outdoor hot tub while admiring the snow-capped peaks. With ski-in/ski-out access and nearby apres-ski activities, this chalet is the ultimate winter getaway.",
+        "price": "$700 per night",
+        "status": "rent",
+        "area": "2500 sq ft",
+        "location": "Mountain Ski Resort",
+        "facilities": [
+            "living room",
+            "fireplace",
+            "kitchen"
+        ],
+        "image": "https://i.ibb.co/3MBLY7N/Ski-Chalet-Retreat.jpg"
+    },
+    {
+        "id5": 7,
+        "estate_title": "Luxurious Lakeside Retreat",
+        "segment_name": "Lakeside",
+        "description": "Escape to a serene lakeside paradise with this luxurious retreat overlooking crystal-clear waters and lush greenery. Nestled on the shores of a tranquil lake, this stunning property offers a private oasis for relaxation and recreation. The spacious interior features upscale furnishings, modern amenities, and panoramic views of the lake from every room. Enjoy boating, fishing, or simply lounging on the deck and soaking in the natural beauty.",
+        "price": "$800 per night",
+        "status": "rent",
+        "area": "2800 sq ft",
+        "location": "Lakefront Haven",
+        "facilities": [
+            "living room",
+            "dock",
+            "kitchen"
+        ],
+        "image": "https://i.ibb.co/Ld3fwrr/Luxurious-Lakeside-Retreat.webp"
+    },
+    {
+        "id5": 8,
+        "estate_title": "Cozy Countryside Cottage",
+        "segment_name": "Rural",
+        "description": "Experience the charm of the countryside with a stay at this cozy cottage nestled amidst rolling hills and scenic landscapes. Surrounded by peaceful gardens and pastoral views, this idyllic retreat offers a tranquil escape from the hustle and bustle of everyday life. The cottage features quaint decor, a crackling fireplace, and a private patio for enjoying morning coffee or evening stargazing. Explore nearby hiking trails, quaint villages, and local markets.",
+        "price": "$250 per night",
+        "status": "rent",
+        "area": "1000 sq ft",
+        "location": "Countryside Retreat",
+        "facilities": [
+            "living room",
+            "fireplace",
+            "kitchen"
+        ],
+        "image": "https://i.ibb.co/3NzVpZd/Cozy-Countryside-Cottage.jpg"
+    },
+    {
+        "id5": 9,
+        "estate_title": "Tropical Paradise Villa",
+        "segment_name": "Beachfront",
+        "description": "Experience the epitome of luxury living in this exquisite tropical paradise villa set on a secluded beach. Surrounded by lush tropical gardens and azure waters, this stunning retreat offers unparalleled privacy and serenity. The villa features lavish amenities, elegant furnishings, and sweeping views of the ocean from every room. Relax by the infinity pool, dine alfresco on the veranda, or stroll along the pristine beach at sunset.",
+        "price": "$1000 per night",
+        "status": "rent",
+        "area": "3500 sq ft",
+        "location": "Tropical Oasis",
+        "facilities": [
+            "living room",
+            "infinity pool",
+            "kitchen"
+        ],
+        "image": "https://i.ibb.co/DKxybfK/Tropical-Paradise-Villa.webp"
+    }
+]

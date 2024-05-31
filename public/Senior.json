@@ -1,0 +1,146 @@
+[
+    {
+        "id4": 1,
+        "image": "https://i.ibb.co/z2GBhCg/Tranquil-Haven-Senior-Living.png",
+        "estate_title": "Tranquil Haven Senior Living",
+        "segment_name": "Senior Living",
+        "description": "Tranquil Haven Senior Living offers a serene and comfortable environment for seniors seeking a peaceful retirement experience. Nestled amidst lush greenery, our community provides a range of amenities and services to promote well-being and social engagement. With spacious living quarters and scenic views, residents can enjoy their golden years in tranquility. Our dedicated staff ensures personalized care and assistance tailored to individual needs, fostering a sense of belonging and security. From wellness programs to recreational activities, there's something for everyone at Tranquil Haven.",
+        "price": "$3,500/month",
+        "status": "rent",
+        "area": "1800 sq ft",
+        "location": "123 Serenity Lane, Anytown, USA",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "fitness center"
+        ]
+    },
+    {
+        "id4": 2,
+        "image": "https://i.ibb.co/q9WcpcT/Sunrise-Meadows-Retirement-Community.jpg",
+        "estate_title": "Sunrise Meadows Retirement Community",
+        "segment_name": "Senior Living",
+        "description": "Escape to Sunrise Meadows Retirement Community, where every day brings new opportunities for relaxation and enrichment. Our picturesque location offers stunning views and a peaceful atmosphere, perfect for those seeking a serene retirement lifestyle. Residents enjoy spacious accommodations, gourmet dining options, and a variety of recreational activities to suit every interest. Whether it's lounging by the pool, exploring nature trails, or participating in group outings, there's never a dull moment at Sunrise Meadows.",
+        "price": "$400,000",
+        "status": "sale",
+        "area": "2200 sq ft",
+        "location": "456 Sunrise Blvd, Pleasantville, USA",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "library"
+        ]
+    },
+    {
+        "id4": 3,
+        "image": "https://i.ibb.co/5kHGVyh/Golden-Oaks-Senior-Living.webp",
+        "estate_title": "Golden Oaks Senior Living",
+        "segment_name": "Senior Living",
+        "description": "Golden Oaks Senior Living offers a warm and inviting community for seniors seeking comfort and companionship in their retirement years. Situated in a convenient location with easy access to amenities, our community provides a range of services designed to enhance quality of life. From chef-prepared meals to engaging social activities, residents can enjoy a fulfilling lifestyle surrounded by caring staff and fellow residents. With spacious apartments and beautifully landscaped grounds, Golden Oaks is the perfect place to call home.",
+        "price": "$4,200/month",
+        "status": "rent",
+        "area": "1600 sq ft",
+        "location": "789 Oak Street, Eldertown, USA",
+        "facilities": [
+            "living room",
+            "game room",
+            "courtyard"
+        ]
+    },
+    {
+        "id4": 4,
+        "image": "https://i.ibb.co/BPWnD0H/Harmony-Gardens-Senior-Living.jpg",
+        "estate_title": "Harmony Gardens Senior Living",
+        "segment_name": "Senior Living",
+        "description": "Discover Harmony Gardens Senior Living, where harmony and happiness flourish. Our vibrant community offers resort-style amenities and personalized care to ensure each resident enjoys a fulfilling retirement experience. From chef-inspired dining to enriching activities, every aspect of life at Harmony Gardens is designed to promote well-being and independence. With spacious apartments and beautifully landscaped grounds, residents can embrace a lifestyle of comfort and convenience in a welcoming atmosphere.",
+        "price": "$350,000",
+        "status": "sale",
+        "area": "2000 sq ft",
+        "location": "101 Harmony Way, Harmonyville, USA",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "fitness center"
+        ]
+    },
+    {
+        "id4": 5,
+        "image": "https://i.ibb.co/QNpzW92/Oakridge-Senior-Living.jpg",
+        "estate_title": "Oakridge Senior Living",
+        "segment_name": "Senior Living",
+        "description": "Oakridge Senior Living offers a premier retirement experience in a tranquil setting. Nestled amidst scenic landscapes, our community provides luxurious amenities and personalized care tailored to each resident's needs. From gourmet dining to stimulating activities, every day offers new opportunities for enrichment and social connection. With spacious accommodations and first-class services, Oakridge sets the standard for upscale senior living.",
+        "price": "$5,000/month",
+        "status": "rent",
+        "area": "2500 sq ft",
+        "location": "234 Oakridge Drive, Oakville, USA",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "movie theater"
+        ]
+    },
+    {
+        "id4": 6,
+        "image": "https://i.ibb.co/X8KTQ92/Majestic-Pines-Senior-Living.jpg",
+        "estate_title": "Majestic Pines Senior Living",
+        "segment_name": "Senior Living",
+        "description": "Experience the majesty of senior living at Majestic Pines. Our community offers a perfect blend of comfort, convenience, and companionship for retirees seeking an enriching lifestyle. From elegant accommodations to engaging activities, every detail is tailored to enhance well-being and promote independence. With scenic views and a welcoming atmosphere, Majestic Pines is where you can truly savor the joys of retirement.",
+        "price": "$380,000",
+        "status": "sale",
+        "area": "1800 sq ft",
+        "location": "345 Pine Avenue, Majestic City, USA",
+        "facilities": [
+            "swimming pool",
+            "library",
+            "gardening area"
+        ]
+    },
+    {
+        "id4": 7,
+        "image": "https://i.ibb.co/mvg1vgp/Sunset-Ridge-Senior-Living.jpg",
+        "estate_title": "Sunset Ridge Senior Living",
+        "segment_name": "Senior Living",
+        "description": "At Sunset Ridge Senior Living, we offer a vibrant community where residents can enjoy an active and fulfilling retirement lifestyle. Our resort-style amenities and engaging activities ensure there's never a dull moment, while our dedicated staff provides personalized care and support. From spacious apartments to scenic outdoor spaces, every aspect of Sunset Ridge is designed to enhance well-being and foster a sense of belonging.",
+        "price": "$4,800/month",
+        "status": "rent",
+        "area": "1900 sq ft",
+        "location": "567 Sunset Blvd, Horizon Hills, USA",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "walking trails"
+        ]
+    },
+    {
+        "id4": 8,
+        "image": "https://i.ibb.co/s5vVQfJ/Maplewood-Senior-Living.jpg",
+        "estate_title": "Maplewood Senior Living",
+        "segment_name": "Senior Living",
+        "description": "Maplewood Senior Living offers a warm and welcoming community for seniors seeking comfort and companionship in their retirement years. Our thoughtfully designed apartments provide a cozy retreat, while our range of amenities and services cater to every aspect of wellness and enjoyment. With a calendar full of social events and activities, residents can stay active and engaged while forming meaningful connections with fellow residents and staff.",
+        "price": "$370,000",
+        "status": "sale",
+        "area": "2100 sq ft",
+        "location": "678 Maple Avenue, Maplewood, USA",
+        "facilities": [
+            "swimming pool",
+            "fitness center",
+            "game room"
+        ]
+    },
+    {
+        "id4": 9,
+        "image": "https://i.ibb.co/RSPvF0J/Evergreen-Terrace-Senior-Living.jpg",
+        "estate_title": "Evergreen Terrace Senior Living",
+        "segment_name": "Senior Living",
+        "description": "Welcome to Evergreen Terrace Senior Living, where residents enjoy a vibrant and fulfilling retirement lifestyle surrounded by nature's beauty. Our community offers a range of amenities and services to promote well-being and independence, including chef-prepared meals, fitness classes, and social events. With spacious apartments and scenic outdoor spaces, residents can embrace each day with joy and enthusiasm at Evergreen Terrace.",
+        "price": "$4,500/month",
+        "status": "rent",
+        "area": "1700 sq ft",
+        "location": "789 Evergreen Lane, Greenfield, USA",
+        "facilities": [
+            "swimming pool",
+            "fitness center",
+            "walking trails"
+        ]
+    }
+]

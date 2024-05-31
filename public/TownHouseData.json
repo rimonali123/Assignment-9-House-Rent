@@ -1,0 +1,146 @@
+[
+    {
+        "image": "https://i.ibb.co/m915Kcn/Luxury-Townhouse-in-Parkside-Estates.jpg",
+        "estate_title": "Luxury Townhouse in Parkside Estates",
+        "id1": 1,
+        "segment_name": "Luxury",
+        "description": "Experience unparalleled luxury living in this exquisite townhouse nestled within the prestigious Parkside Estates. Boasting a perfect blend of modern design and timeless elegance, this residence features high-end finishes and fixtures throughout its spacious interiors. The open-concept layout seamlessly connects the living, dining, and kitchen areas, creating an ideal space for entertaining guests or relaxing with family. Enjoy resort-style amenities including a private swimming pool, lush landscaped gardens, and a fully equipped gourmet kitchen. With its prime location and unmatched craftsmanship, this townhouse offers the epitome of upscale living.",
+        "price": "$1,500,000",
+        "status": "sale",
+        "area": "3,500 sq ft",
+        "location": "Parkside Estates, New York",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "kitchen"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/74gv1Y7/Modern-Townhouse-in-Downtown-District.jpg",
+        "estate_title": "Modern Townhouse in Downtown District",
+        "id1": 2,
+        "segment_name": "Modern",
+        "description": "Discover contemporary urban living at its finest in this sleek townhouse located in the heart of the vibrant Downtown District. Designed with sophistication and functionality in mind, this residence offers an array of upscale features including floor-to-ceiling windows, designer lighting fixtures, and gourmet kitchen with state-of-the-art appliances. The expansive rooftop terrace provides stunning city views, perfect for alfresco dining or relaxing under the stars. With its convenient location and stylish design, this townhouse embodies the essence of modern city living.",
+        "price": "$850,000",
+        "status": "sale",
+        "area": "2,000 sq ft",
+        "location": "Downtown District, Los Angeles",
+        "facilities": [
+            "living room",
+            "rooftop terrace",
+            "kitchen"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/W2xTPHW/Charming-Townhouse-in-Historic-Neighborhood.jpg",
+        "estate_title": "Charming Townhouse in Historic Neighborhood",
+        "id1": 3,
+        "segment_name": "Charming",
+        "description": "Step back in time and embrace the charm of yesteryear in this delightful townhouse located in a picturesque historic neighborhood. Lovingly restored to preserve its original character, this home features period details such as exposed brick walls, hardwood floors, and ornate crown moldings. The cozy living spaces exude warmth and character, providing a welcoming retreat from the hustle and bustle of modern life. Enjoy the tranquil outdoor patio surrounded by lush greenery, perfect for enjoying your morning coffee or hosting intimate gatherings. With its timeless appeal and convenient location, this townhouse offers a truly unique living experience.",
+        "price": "$650,000",
+        "status": "sale",
+        "area": "1,800 sq ft",
+        "location": "Historic District, Boston",
+        "facilities": [
+            "living room",
+            "outdoor patio",
+            "kitchen"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/ySv1r18/Spacious-Townhouse-in-Family-Friendly-Community.jpg",
+        "estate_title": "Spacious Townhouse in Family-Friendly Community",
+        "id1": 4,
+        "segment_name": "Family-Friendly",
+        "description": "Experience the perfect blend of comfort and convenience in this spacious townhouse situated within a family-friendly community. Boasting generous living areas and abundant natural light, this home offers plenty of room for families of all sizes. The gourmet kitchen is equipped with modern appliances and ample counter space, making meal prep a breeze. Upstairs, the master suite provides a peaceful retreat with its luxurious ensuite bathroom and walk-in closet. Enjoy access to community amenities including a swimming pool, playground, and walking trails. With its welcoming atmosphere and sought-after location, this townhouse is the ideal place to call home.",
+        "price": "$550,000",
+        "status": "sale",
+        "area": "2,300 sq ft",
+        "location": "Family-Friendly Community, Chicago",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "kitchen"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/sP3Ng2H/Elegant-Townhouse-in-Gated-Community.jpg",
+        "estate_title": "Elegant Townhouse in Gated Community",
+        "id1": 5,
+        "segment_name": "Elegant",
+        "description": "Indulge in luxurious living in this elegant townhouse located within a prestigious gated community. Featuring sophisticated design elements and impeccable craftsmanship, this residence offers a refined aesthetic and superior quality throughout. The spacious living areas are perfect for entertaining, while the private courtyard provides a serene outdoor oasis for relaxation. Upstairs, the master suite boasts a spa-like ensuite bathroom and expansive walk-in closet. Residents enjoy exclusive access to community amenities including a clubhouse, fitness center, and tennis courts. With its unmatched elegance and upscale amenities, this townhouse epitomizes luxury living at its finest.",
+        "price": "$1,200,000",
+        "status": "sale",
+        "area": "2,800 sq ft",
+        "location": "Gated Community, Miami",
+        "facilities": [
+            "living room",
+            "courtyard",
+            "kitchen"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/xLsT05k/Stylish-Townhouse-in-Trendy-Urban-Neighborhood.jpg",
+        "estate_title": "Stylish Townhouse in Trendy Urban Neighborhood",
+        "id1": 6,
+        "segment_name": "Stylish",
+        "description": "Immerse yourself in the vibrant energy of urban living in this stylish townhouse located in a trendy neighborhood. Designed for modern lifestyles, this home boasts sleek finishes and contemporary design elements throughout its light-filled interiors. The open-concept living spaces flow seamlessly, providing the perfect setting for both everyday living and entertaining. Upstairs, the master suite offers a luxurious retreat with its spa-like ensuite bathroom and walk-in closet. Enjoy the convenience of nearby shops, restaurants, and cultural attractions, all just steps from your front door. With its chic design and prime location, this townhouse offers the ultimate urban lifestyle.",
+        "price": "$950,000",
+        "status": "sale",
+        "area": "2,500 sq ft",
+        "location": "Urban Neighborhood, San Francisco",
+        "facilities": [
+            "living room",
+            "rooftop deck",
+            "kitchen"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/Msy6LJb/Cozy-Townhouse-with-Mountain-Views.jpg",
+        "estate_title": "Cozy Townhouse with Mountain Views",
+        "id1": 7,
+        "segment_name": "Cozy",
+        "description": "Escape to the tranquility of mountain living in this cozy townhouse boasting breathtaking views of the surrounding peaks. Tucked away in a serene mountain community, this home offers a peaceful retreat from the hustle and bustle of city life. The inviting living spaces feature rustic charm and cozy furnishings, creating a warm and welcoming atmosphere for relaxation. Step outside to the private deck and soak in the majestic vistas while enjoying your morning coffee or evening cocktail. With its idyllic setting and charming ambiance, this townhouse is the perfect mountain getaway.",
+        "price": "$750,000",
+        "status": "sale",
+        "area": "2,200 sq ft",
+        "location": "Mountain Community, Denver",
+        "facilities": [
+            "living room",
+            "private deck",
+            "kitchen"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/HKpnPn7/Contemporary-Townhouse-in-Waterfront-Community.jpg",
+        "estate_title": "Contemporary Townhouse in Waterfront Community",
+        "id1": 8,
+        "segment_name": "Contemporary",
+        "description": "Experience waterfront living at its finest in this contemporary townhouse situated within a coveted waterfront community. Offering breathtaking views of the bay and easy access to boating and water sports, this residence is perfect for outdoor enthusiasts and nature lovers alike. The sleek and stylish interiors feature modern design elements and high-end finishes, creating a sophisticated atmosphere for living and entertaining. Step outside to the private patio and enjoy panoramic views of the water and lush landscaped grounds. With its prime waterfront location and luxurious amenities, this townhouse offers a truly exceptional lifestyle.",
+        "price": "$1,800,000",
+        "status": "sale",
+        "area": "3,000 sq ft",
+        "location": "Waterfront Community, Seattle",
+        "facilities": [
+            "living room",
+            "private patio",
+            "kitchen"
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/gznwydd/Traditional-Townhouse-in-Quaint-Village-Setting.jpg",
+        "estate_title": "Traditional Townhouse in Quaint Village Setting",
+        "id1": 9,
+        "segment_name": "Traditional",
+        "description": "Discover the timeless charm of village living in this traditional townhouse nestled within a quaint and historic village setting. Featuring classic architectural details and period charm, this home exudes character and warmth at every turn. The cozy living spaces are perfect for intimate gatherings, while the tranquil outdoor courtyard provides a peaceful retreat for relaxation. Upstairs, the bedrooms offer comfort and privacy, with ample space for rest and rejuvenation. Enjoy strolling along tree-lined streets, exploring local shops and restaurants, and soaking in the serene ambiance of village life. With its idyllic setting and old-world charm, this townhouse offers a truly enchanting living experience.",
+        "price": "$500,000",
+        "status": "sale",
+        "area": "1,600 sq ft",
+        "location": "Quaint Village, Charleston",
+        "facilities": [
+            "living room",
+            "outdoor courtyard",
+            "kitchen"
+        ]
+    }
+]

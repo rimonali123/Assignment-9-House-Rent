@@ -1,0 +1,146 @@
+[
+    {
+        "id2": 1,
+        "image": "https://i.ibb.co/9TMQHwQ/Modern-Student-Housing-in-Downtown.jpg",
+        "estate_title": "Modern Student Housing in Downtown",
+        "segment_name": "Student Housing",
+        "description": "Experience the epitome of urban living in our modern student housing located in the heart of downtown. This luxurious residence offers a vibrant and dynamic environment tailored specifically for students seeking comfort, convenience, and style. With spacious rooms designed for both relaxation and productivity, our housing provides the perfect balance between study and social life. Our community boasts state-of-the-art facilities including a fully equipped kitchen, cozy living room, and refreshing swimming pool. Whether you're hitting the books or unwinding after a long day, our housing has everything you need. Don't miss out on this unparalleled living experience!",
+        "price": "$1500/month",
+        "status": "rent",
+        "area": "1800 sq ft",
+        "location": "Downtown, City Center",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "kitchen"
+        ]
+    },
+    {
+        "id2": 2,
+        "image": "https://i.ibb.co/gmtqC45/Spacious-Student-Apartments-Near-Campus.jpg",
+        "estate_title": "Spacious Student Apartments Near Campus",
+        "segment_name": "Student Housing",
+        "description": "Discover the ultimate student living experience in our spacious apartments conveniently located near the university campus. Designed with students in mind, our apartments offer comfortable and contemporary living spaces where you can study, relax, and socialize with ease. Each unit features a well-appointed kitchen, cozy living area, and ample storage space. Residents can also enjoy access to on-site amenities such as a fitness center, study rooms, and communal lounges. With a vibrant community atmosphere and a prime location close to campus facilities, our housing provides the ideal setting for academic success and personal growth.",
+        "price": "$1800/month",
+        "status": "rent",
+        "area": "1600 sq ft",
+        "location": "Near University Campus",
+        "facilities": [
+            "fitness center",
+            "study rooms",
+            "communal lounge"
+        ]
+    },
+    {
+        "id2": 3,
+        "image": "https://i.ibb.co/M8mcsVD/Luxurious-Student-Residences-with-Panoramic-Views.jpg",
+        "estate_title": "Luxurious Student Residences with Panoramic Views",
+        "segment_name": "Student Housing",
+        "description": "Elevate your student living experience in our luxurious residences boasting panoramic views of the city skyline. Nestled in a prime location, our housing offers a serene retreat from the hustle and bustle of campus life while still being conveniently close to all amenities. Each residence is meticulously designed to provide the utmost comfort and style, featuring spacious living areas, gourmet kitchens, and elegant furnishings. Residents can unwind and socialize in our rooftop lounge, take a dip in the sparkling swimming pool, or work up a sweat in the fitness center. With unparalleled amenities and breathtaking views, our housing sets the standard for upscale student living.",
+        "price": "$2000/month",
+        "status": "rent",
+        "area": "2200 sq ft",
+        "location": "City Center",
+        "facilities": [
+            "rooftop lounge",
+            "swimming pool",
+            "fitness center"
+        ]
+    },
+    {
+        "id2": 4,
+        "image": "https://i.ibb.co/4JqLvYn/Cozy-Student-Studio-Apartments-in-Quiet-Neighborhood.webp",
+        "estate_title": "Cozy Student Studio Apartments in Quiet Neighborhood",
+        "segment_name": "Student Housing",
+        "description": "Escape the noise and chaos of campus life in our cozy studio apartments nestled in a quiet residential neighborhood. Perfect for those who prefer a tranquil environment for studying and relaxation, our apartments offer a peaceful retreat without sacrificing convenience. Each studio is thoughtfully designed to maximize space and functionality, featuring a fully equipped kitchenette, comfortable sleeping area, and modern bathroom. Residents can also enjoy access to communal facilities including a shared lounge and outdoor courtyard. Embrace the simplicity and serenity of student living in our welcoming community.",
+        "price": "$1200/month",
+        "status": "rent",
+        "area": "900 sq ft",
+        "location": "Quiet Residential Neighborhood",
+        "facilities": [
+            "kitchenette",
+            "shared lounge",
+            "outdoor courtyard"
+        ]
+    },
+    {
+        "id2": 5,
+        "image": "https://i.ibb.co/tppNkzb/Charming-Student-House-with-Private-Garden.jpg",
+        "estate_title": "Charming Student House with Private Garden",
+        "segment_name": "Student Housing",
+        "description": "Experience the charm of student living in our quaint house featuring a private garden oasis. Tucked away in a peaceful corner of the city, our house offers a serene escape from the demands of academic life. Step inside to discover a warm and inviting interior complete with a spacious living room, fully equipped kitchen, and cozy bedrooms. Outside, the lush garden provides the perfect setting for outdoor gatherings and relaxation. With its unique blend of comfort and character, our house is the ideal retreat for students seeking a home away from home.",
+        "price": "$1600/month",
+        "status": "rent",
+        "area": "1400 sq ft",
+        "location": "Peaceful City Corner",
+        "facilities": [
+            "living room",
+            "private garden",
+            "kitchen"
+        ]
+    },
+    {
+        "id2": 6,
+        "image": "https://i.ibb.co/WstVb5p/Modern-Student-Condo-with-Spectacular-Views.jpg",
+        "estate_title": "Modern Student Condo with Spectacular Views",
+        "segment_name": "Student Housing",
+        "description": "Live in style in our modern student condo boasting spectacular views of the surrounding cityscape. Located in a vibrant urban neighborhood, our condo offers a contemporary living space designed for both comfort and convenience. From the sleek kitchen with stainless steel appliances to the spacious living area flooded with natural light, every detail has been carefully curated to enhance your living experience. Residents can also take advantage of on-site amenities including a rooftop terrace, fitness center, and communal lounge. Don't miss your chance to elevate your student lifestyle in this stylish and sophisticated condo.",
+        "price": "$1900/month",
+        "status": "rent",
+        "area": "2000 sq ft",
+        "location": "Urban Neighborhood",
+        "facilities": [
+            "rooftop terrace",
+            "fitness center",
+            "communal lounge"
+        ]
+    },
+    {
+        "id2": 7,
+        "image": "https://i.ibb.co/9T7wTCJ/Contemporary-Student-Townhomes-with-Premium-Amenities.webp",
+        "estate_title": "Contemporary Student Townhomes with Premium Amenities",
+        "segment_name": "Student Housing",
+        "description": "Discover the epitome of contemporary living in our stylish student townhomes featuring premium amenities and sophisticated design. Situated in a lively neighborhood close to campus, our townhomes offer the perfect blend of comfort and convenience. Each unit boasts modern finishes, spacious layouts, and high-end appliances, providing a luxurious backdrop for student life. Residents can relax and socialize in the community clubhouse, take a dip in the resort-style pool, or work up a sweat in the fitness center. With its unbeatable location and top-notch amenities, our townhome community sets the standard for upscale student living.",
+        "price": "$2200/month",
+        "status": "rent",
+        "area": "2400 sq ft",
+        "location": "Lively Neighborhood",
+        "facilities": [
+            "clubhouse",
+            "swimming pool",
+            "fitness center"
+        ]
+    },
+    {
+        "id2": 8,
+        "image": "https://i.ibb.co/ZTKHm3t/Exclusive-Student-Penthouse-with-Panoramic-City-Views.jpg",
+        "estate_title": "Exclusive Student Penthouse with Panoramic City Views",
+        "segment_name": "Student Housing",
+        "description": "Experience luxury living at its finest in our exclusive student penthouse boasting panoramic city views and upscale amenities. Perched atop a high-rise building in the heart of downtown, this penthouse offers unparalleled sophistication and style. Step inside to discover a spacious and elegantly furnished interior featuring designer finishes and premium appliances. The expansive terrace provides the perfect setting for outdoor entertaining and enjoying the breathtaking vistas. Residents also have access to a range of first-class amenities including a private fitness center, rooftop pool, and concierge services. Elevate your student lifestyle to new heights in this prestigious penthouse residence.",
+        "price": "$2500/month",
+        "status": "rent",
+        "area": "2800 sq ft",
+        "location": "Downtown",
+        "facilities": [
+            "living room",
+            "fitness center",
+            "rooftop pool"
+        ]
+    },
+    {
+        "id2": 9,
+        "image": "https://i.ibb.co/N2YhsbL/Spacious-Student-Dormitory-with-All-Inclusive-Amenities.jpg",
+        "estate_title": "Spacious Student Dormitory with All-Inclusive Amenities",
+        "segment_name": "Student Housing",
+        "description": "Live the ultimate college experience in our spacious student dormitory equipped with all-inclusive amenities and modern conveniences. Located within walking distance of campus, our dormitory offers hassle-free living for students seeking comfort and community. Each dorm room is furnished with essential amenities including a comfortable bed, study desk, and ample storage space. Residents also have access to communal facilities such as a recreation room, laundry facilities, and 24-hour security. With its convenient location and comprehensive amenities, our dormitory provides the perfect home base for academic success and social engagement.",
+        "price": "$1000/month",
+        "status": "rent",
+        "area": "1300 sq ft",
+        "location": "Near Campus",
+        "facilities": [
+            "recreation room",
+            "laundry facilities",
+            "24-hour security"
+        ]
+    }
+]
