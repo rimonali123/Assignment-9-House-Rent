@@ -57,7 +57,17 @@ My website name is "House Rent". I have make a simple design website. I have get
 
 * I have used 3 packages for challenging task requirement :
 
-      1. npm-react-hook-form,
-      2. npm-aos,
-      3. npm-react-swiperSlider
+       1. npm-react-hook-form,
+       2. npm-aos,
+       3. npm-react-swiperSlider
 
+* The Technology i have used in the project..........
+        1. Html,
+        2. Tailwind-css,
+        3. Daisy ui,
+        4. React.js,
+        5. React Router Dom,
+        6. JavaScript,
+        7. React icon etc.
+        
+    
